@@ -1,2 +1,2 @@
-# imagine-apps-delivery-app
-Tech interview
+# Delivery tracker
+Tool for the tracking, creation, and modification of package shipments between different cities in Colombia. With authentication system, users can access their accounts and have full control over their shipments. Moreover, the integrated map functionality provides a clear visualization of package route. Whether it's creating new shipments, updating delivery details, or making modifications, our app offers an intuitive interface that facilitates efficient package management.
